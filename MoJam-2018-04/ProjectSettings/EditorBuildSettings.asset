@@ -6,5 +6,32 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/menu.unity
-    guid: b836aceb8f39c4429b0e8e7e348d6f24
+    path: Assets/JY/Core/Scene/menu.unity
+    guid: 6f489513559ef430383e9ec7960bd237
+  - enabled: 1
+    path: Assets/JY/Core/Scene/game.unity
+    guid: fae004d7d19f84b0b9bf138a3c922e63
+  - enabled: 1
+    path: Assets/JY/Core/Scene/intro.unity
+    guid: 6bb15e54ec70d41aba78a34db619db42
+  - enabled: 1
+    path: Assets/JY/Core/Scene/map.unity
+    guid: 664189a69ff9a4998adcece6ee1643b4
+  - enabled: 1
+    path: Assets/JY/Core/Scene/spin.unity
+    guid: 556d08a686c7541b7bcc3033354457cb
+  - enabled: 1
+    path: Assets/JY/Core/Scene/choice.unity
+    guid: 0fd0e4183b5324296accc54ffa416b2a
+  - enabled: 1
+    path: Assets/JY/Core/Scene/question.unity
+    guid: d415236615cc14e6c99a5c36f5bbe113
+  - enabled: 1
+    path: Assets/JY/Core/Scene/lose.unity
+    guid: aff3b1fa390f5400a9a2e36bec03baa3
+  - enabled: 1
+    path: Assets/JY/Core/Scene/win.unity
+    guid: 8c52d852cda684daaa7b9c042a751488
+  - enabled: 1
+    path: Assets/JY/Core/Scene/victory.unity
+    guid: 0c40b739b5feb438ca0d326f702e6fdc

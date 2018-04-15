@@ -13,3 +13,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   questions:
   - {fileID: 11400000, guid: d93a31297f4124a95afdc395ed924a5e, type: 2}
+  - {fileID: 11400000, guid: ecff67daaf5dd4f0eb75fe7be6591034, type: 2}
+  - {fileID: 11400000, guid: 7680cd2c9f811400f9f42e7916aa9afa, type: 2}
